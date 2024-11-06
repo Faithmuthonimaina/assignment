@@ -13,7 +13,7 @@ struct Book{
 
 int main()
 {
-/*	strcpy(book1.title,"introduction to c programming");
+	strcpy(book1.title,"introduction to c programming");
 	strcpy(book1.author,"John Smith");
 	book1.publicationyear = 2022;
 	strcpy(book1.ISBN,"9880131103627");
@@ -23,7 +23,7 @@ int main()
 	printf("Author: %s\n",book1.author);
 	printf("Publicationyear: %d\n",book1.publicationyear);
 	printf("ISBN: %s\n",book1.ISBN);
-	printf("Price: %.2f\n",book1.Price);*/
+	printf("Price: %.2f\n",book1.Price);
 
 	//propmt the user to enter
 	printf("\nEnter the title:");
